@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HH-1-Arrays_LeftRotation.iml" filepath="$PROJECT_DIR$/HH-1-Arrays_LeftRotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank_Problems/HackerRank_Problems.iml" filepath="$PROJECT_DIR$/HackerRank_Problems/HackerRank_Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IdeaProjects.iml" filepath="$PROJECT_DIR$/../IdeaProjects.iml" />
+    </modules>
+  </component>
+</project>
